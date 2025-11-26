@@ -1,0 +1,3 @@
+git vzdálené přidání originu https://github.com/HejclL/Ro-n-kov-projekt-.git
+ git branch -M main 
+git push -u origin main

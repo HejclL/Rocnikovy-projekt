@@ -24,17 +24,15 @@ měnič 230V AC/12V DC
 
 Slaněné vodiče                                                            
 
-
-
-
-
-rrrrrrrrAA Dutinky
+Dutinky
 
 příklepová vrtačka 
 
 hmoždinka Ø6
 
 vrtákØ6
+
+Kleště na dutinky 
 
 
 

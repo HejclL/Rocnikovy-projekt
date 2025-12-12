@@ -1,6 +1,6 @@
 # Zapojení LED diod zapínaných při otevření skříně
 
-Rozhodl jsem se zapojit jsi LED osvětlení do skříně jelikož aktuálně když otevřu skříň dvířkami zablokuji světlo a musím používat baterku abych ve skříni něco viděl. je to tedy velmi nekonfortní a tímto to vyřeším.  viz foto:
+Rozhodl jsem se zapojit jsi LED osvětlení do skříně jelikož aktuálně když otevřu skříň dvířkami zablokuji světlo a musím používat baterku abych ve skříni něco viděl. je to tedy velmi nekonfortní a tímto to doufám vyřeším.  viz foto:
 
 ![Image](https://github.com/user-attachments/assets/71f9b88b-b31c-479d-8081-74418892ebda)
 
@@ -34,7 +34,13 @@ vrtákØ6
 
 Kleště na dutinky 
 
+plastové lišty 
 
+hliníková lišta na LED s difuzerem 
+
+LED pasek na 12V 
+
+propojovací vodiče na LED
 
 ![Image](https://github.com/user-attachments/assets/265bce0b-678c-4d10-8bb8-94045f74510e)
 # Zapojení 

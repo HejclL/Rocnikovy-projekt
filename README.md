@@ -45,7 +45,7 @@ Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm do roznaděče na jist
 
 LED pásek umístím na strop na kolmou lištu s difuzérem tak aby svítila do skříně.(Mám dřevěný strop tedy předělání nebude takový problém)
 
-Vodiče/kabely povedu v bílých plastových lištách. pro přidělání rozvadeče do steni použiji homždinky vrtačku a šrouby. 
+Vodiče/kabely povedu v bílých plastových lištách. pro přidělání rozvadeče do steni použiji homždinky vrtačku a šrouby. Na všechny slaněné vodiče dám dutinku. 
 # Poděkování
 S projektem mi pomohl můj otec a dohlížel ne mě při práci s 230V.
 # Doporučené zdroje

@@ -43,6 +43,11 @@ LED pasek na 12V
 propojovací vodiče na LED
 
 ![Image](https://github.com/user-attachments/assets/265bce0b-678c-4d10-8bb8-94045f74510e)
+<img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/c5306016-5715-430e-b58b-29e17c75cf01" />
+<img width="1320" height="1760" alt="image" src="https://github.com/user-attachments/assets/6860dc27-2ad4-4e04-ab31-0a376a4cf172" />
+<img width="1320" height="1760" alt="image" src="https://github.com/user-attachments/assets/6ba0619a-556d-4fea-8c5b-034fc55e0e73" />
+
+
 # Zapojení 
 
 <img width="1465" height="666" alt="Image" src="https://github.com/user-attachments/assets/478e6ead-f138-4caa-9cf1-64926a854000" />

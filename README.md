@@ -38,7 +38,7 @@ plastové lišty
 
 hliníková lišta na LED s difuzerem 
 
-LED pasek na 12V 
+LED pasek na 12V 4W/m 3000K 
 
 propojovací vodiče na LED
 

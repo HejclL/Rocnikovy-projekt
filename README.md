@@ -64,3 +64,5 @@ https://www.t-led.cz/p/led-profil-r6-stribrny-rohovy-16-16-94100/094100
 
 https://cs.wikipedia.org/wiki/LED
 
+https://eshop.ledsolution.cz/led-diody-technicke-udaje/
+

@@ -52,7 +52,7 @@ propojovací vodiče na LED
 
 <img width="1465" height="666" alt="Image" src="https://github.com/user-attachments/assets/478e6ead-f138-4caa-9cf1-64926a854000" />
 
-Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm do roznaděče na jistič a N svorkovnici. (jedná se o síť TN-C) Dale propojíme pomocí hřebenu přívody na jističe(Jistič 10A) slouží pro jištění jedné zasuvky a světla, kteréjsou jižnainstalované). Z 6A jističe vyvedu na rozpinaci kontakt který je umístěný ve skřini a sepne (zapne) při otevření dvířek skříně. Následně pokračuji zpátky do rozvaděče na usmernovač a z usmernovače už na LED pásek. 
+Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm do roznaděče na jistič a N svorkovnici. (jedná se o síť TN-C) Dale propojíme pomocí hřebenu přívody na jističe(Jistič 10A) slouží pro jištění jedné zasuvky a světla, které jsou (již nainstalované). Z 6A jističe vyvedu na rozpinaci kontakt který je umístěný ve skřini a sepne (zapne) při otevření dvířek skříně. Následně pokračuji zpátky do rozvaděče na usmernovač a z usmernovače už na LED pásek. 
 
 LED pásek umístím na strop na kolmou lištu s difuzérem tak aby svítila do skříně.(Mám dřevěný strop tedy předělání nebude takový problém)
 

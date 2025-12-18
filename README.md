@@ -14,7 +14,7 @@ jistič 10A (pro jištění instalace mimo projekt)
 
 jistič 6A
 
-rozpínací kontakt
+spínač BS1012 u ktereho použiji rozpínací kontakt
 
 nulovou svorkovnici
 
@@ -46,6 +46,8 @@ propojovací vodiče na LED
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/c5306016-5715-430e-b58b-29e17c75cf01" />
 <img width="1320" height="1760" alt="image" src="https://github.com/user-attachments/assets/6860dc27-2ad4-4e04-ab31-0a376a4cf172" />
 <img width="1320" height="1760" alt="image" src="https://github.com/user-attachments/assets/6ba0619a-556d-4fea-8c5b-034fc55e0e73" />
+<img width="1320" height="1760" alt="image" src="https://github.com/user-attachments/assets/de443d80-391e-4a50-8214-f10168286fdb" />
+
 
 
 # Zapojení 

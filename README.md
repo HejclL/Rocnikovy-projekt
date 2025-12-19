@@ -42,6 +42,8 @@ LED pasek na 12V 4W/m 3000K
 
 propojovací vodiče na LED
 
+auto konektory 
+
 ![Image](https://github.com/user-attachments/assets/265bce0b-678c-4d10-8bb8-94045f74510e)
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/c5306016-5715-430e-b58b-29e17c75cf01" />
 <img width="1320" height="1760" alt="image" src="https://github.com/user-attachments/assets/6860dc27-2ad4-4e04-ab31-0a376a4cf172" />
@@ -54,11 +56,11 @@ propojovací vodiče na LED
 
 <img width="1465" height="666" alt="Image" src="https://github.com/user-attachments/assets/478e6ead-f138-4caa-9cf1-64926a854000" />
 
-Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm do roznaděče na jistič a N svorkovnici. (jedná se o síť TN-C) Dale propojíme pomocí hřebenu přívody na jističe(Jistič 10A) slouží pro jištění jedné zasuvky a světla, které jsou (již nainstalované). Z 6A jističe vyvedu na rozpinaci kontakt který je umístěný ve skřini a sepne (zapne) při otevření dvířek skříně. Následně pokračuji zpátky do rozvaděče na usmernovač a z usmernovače už na LED pásek. 
+Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm do roznaděče na jistič a N svorkovnici. (jedná se o síť TN-C) Dale propojíme pomocí hřebenu přívody na jističe(Jistič 10A) slouží pro jištění jedné zasuvky a světla, které jsou (již nainstalované). Z 6A jističe vyvedu na rozpinaci kontakt který je umístěný ve vnitřku skřině a sepne (zapne) při otevření dvířek skříně. Následně pokračuji zpátky do rozvaděče na usmernovač a z usmernovače už na LED pásek. 
 
 LED pásek umístím na strop na kolmou lištu s difuzérem tak aby svítila do skříně.(Mám dřevěný strop tedy předělání nebude takový problém)
 
-Vodiče/kabely povedu v bílých plastových lištách. pro přidělání rozvadeče do steni použiji homždinky vrtačku a šrouby. Na všechny slaněné vodiče dám dutinku. 
+Vodiče/kabely povedu v bílých plastových lištách. pro přidělání rozvadeče do steni použiji homždinky vrtačku a šrouby. Na všechny slaněné vodiče dám dutinku. A na spojení s rozpínacím tlačítkem použiji autokonektory. 
 # Poděkování
 S projektem mi pomohl můj otec a sehnal mi součástky.
 # Doporučené zdroje

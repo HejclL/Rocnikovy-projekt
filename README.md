@@ -60,7 +60,7 @@ LED pásek umístím na strop na kolmou lištu s difuzérem tak aby svítila do 
 
 Vodiče/kabely povedu v bílých plastových lištách. pro přidělání rozvadeče do steni použiji homždinky vrtačku a šrouby. Na všechny slaněné vodiče dám dutinku. 
 # Poděkování
-S projektem mi pomohl můj otec a dohlížel ne mě při práci s 230V.
+S projektem mi pomohl můj otec a sehnal mi součástky.
 # Doporučené zdroje
 https://www.t-led.cz/p/led-profil-r6-stribrny-rohovy-16-16-94100/094100
 

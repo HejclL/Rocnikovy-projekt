@@ -51,6 +51,8 @@ Horkovžudšná pistoli(pro zatavení spojek)
 
 DIN Lištu (5cm)
 
+Odizolovávací kleště
+
 ![Image](https://github.com/user-attachments/assets/265bce0b-678c-4d10-8bb8-94045f74510e)
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/c5306016-5715-430e-b58b-29e17c75cf01" />
 <img width="1320" height="1760" alt="image" src="https://github.com/user-attachments/assets/6860dc27-2ad4-4e04-ab31-0a376a4cf172" />

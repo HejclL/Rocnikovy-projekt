@@ -8,6 +8,7 @@ A jelikož potřebuji svítit pouze při otevřené skříni tak bude tohle ře�
 
 ![Image](https://github.com/user-attachments/assets/71cf3db2-9755-4e6c-9e15-db7f4791dec0)
 
+## zásady bezpečnosti práce
 
 
 # Použité součástky a nástroje
@@ -38,15 +39,17 @@ Kleště na dutinky
 
 plastové lišty 
 
-hliníková lišta na LED s difuzerem 
+hliníková lišta na LED s difuzerem (81cm)
 
-LED pasek na 12V 4W/m 3000K 
+LED pasek na 12V 4W/m 3000K (80cm)
 
 propojovací vodiče na LED
 
 auto konektory 
 
 Horkovžudšná pistoli(pro zatavení spojek) 
+
+DIN Lištu (5cm)
 
 ![Image](https://github.com/user-attachments/assets/265bce0b-678c-4d10-8bb8-94045f74510e)
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/c5306016-5715-430e-b58b-29e17c75cf01" />
@@ -65,6 +68,15 @@ Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm do roznaděče na jist
 LED pásek umístím na strop na kolmou lištu s difuzérem tak aby svítila do skříně.(Mám dřevěný strop tedy předělání nebude takový problém)
 
 Vodiče/kabely povedu v bílých plastových lištách. pro přidělání rozvadeče do steni použiji homždinky vrtačku a šrouby. Na všechny slaněné vodiče dám dutinku. A na spojení s rozpínacím tlačítkem použiji autokonektory. 
+
+
+## výpočet parametrů měniče
+
+Parametry: 100-240V AC (0.45A) / 12V DC (1.2A) 15W
+
+Jelikož používám 80cm LED pasku o příkonu 4W/m tak zdroj s víkonem 15W je uplně dostačující. (0.8*4=3.2) 
+
+Tento zdroj jsem jsi hlavě vybral kvůli tomu že je mam doma a tudíž jsem nemusel nic shanět.  
 # Poděkování
 S projektem mi pomohl můj otec a sehnal mi součástky.
 # Doporučené zdroje

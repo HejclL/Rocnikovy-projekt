@@ -80,9 +80,7 @@ Tento zdroj jsem jsi hlavě vybral kvůli tomu že je mam doma a tudíž jsem ne
 # Poděkování
 S projektem mi pomohl můj otec a to i s výběrem součástek. A zarověň na mě dohlížel při práci.
 # Doporučené zdroje
-https://www.t-led.cz/p/led-profil-r6-stribrny-rohovy-16-16-94100/094100
-
+Hliníková lišta na LED. Online. In: T-LED: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://www.t-led.cz/p/led-profil-r6-stribrny-rohovy-16-16-94100/094100. [cit. 2025-12-31].
 LED. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://cs.wikipedia.org/wiki/LED. [cit. 2025-12-31].
 
-https://eshop.ledsolution.cz/led-diody-technicke-udaje/
-
+Jak LED diody fungují. Online. In: LED Solution: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://eshop.ledsolution.cz/led-diody-technicke-udaje/. [cit. 2025-12-31].

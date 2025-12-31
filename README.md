@@ -9,7 +9,7 @@ A jelikož potřebuji svítit pouze při otevřené skříni tak bude tohle ře�
 ![Image](https://github.com/user-attachments/assets/71cf3db2-9755-4e6c-9e15-db7f4791dec0)
 
 ## zásady bezpečnosti práce
-
+Jedná se o práci s napětím 230V. A proto smí tuto činost provádět pouze s potřebnou kvalifikací. Tento projekt neslouží jako návod ale pouze jako ukázka jak jsem vyřešil danou zaležitost já. je duležité oveřit jsi všechny normi a vykonávat činosti na které jste odborně způsobylí.    
 
 # Použité součástky a nástroje
 
@@ -78,11 +78,11 @@ Jelikož používám 80cm LED pasku o příkonu 4W/m tak zdroj s víkonem 15W je
 
 Tento zdroj jsem jsi hlavě vybral kvůli tomu že je mam doma a tudíž jsem nemusel nic shanět.  
 # Poděkování
-S projektem mi pomohl můj otec a sehnal mi součástky.
+S projektem mi pomohl můj otec a to i s výběrem součástek. A zarověň na mě dohlížel při práci.
 # Doporučené zdroje
 https://www.t-led.cz/p/led-profil-r6-stribrny-rohovy-16-16-94100/094100
 
-https://cs.wikipedia.org/wiki/LED
+LED. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://cs.wikipedia.org/wiki/LED. [cit. 2025-12-31].
 
 https://eshop.ledsolution.cz/led-diody-technicke-udaje/
 

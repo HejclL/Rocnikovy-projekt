@@ -90,9 +90,11 @@ Parametry: 100-240V AC (0.45A) / 12V DC (1.2A) 15W
 
 Jelikož používám 80cm LED pasku o příkonu 4W/m tak zdroj s víkonem 15W je uplně dostačující. (0.8*4=3.2) 
 
-Tento zdroj jsem jsi hlavě vybral kvůli tomu že je mam doma a tudíž jsem nemusel nic shanět.  
+Tento zdroj jsem jsi hlavě vybral kvůli tomu že je mám doma a tudíž jsem nemusel nic shanět.  
 # Poděkování
 S projektem mi pomohl můj otec a to i s výběrem součástek. A zarověň na mě dohlížel při práci.
+
+Děkuji i panu učiteli bez kterého bych jse k udělání sám neodhodlal. A teď jsem rád jelikož je to pro mě dobré vylepšení.
 # Doporučené zdroje
 Hliníková lišta na LED. Online. In: T-LED: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://www.t-led.cz/p/led-profil-r6-stribrny-rohovy-16-16-94100/094100. [cit. 2025-12-31].
 LED. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://cs.wikipedia.org/wiki/LED. [cit. 2025-12-31].

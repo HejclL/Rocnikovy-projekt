@@ -1,6 +1,6 @@
 # Zapojení LED diod zapínaných při otevření skříně
 
-Rozhodl jsem se zapojit jsi LED osvětlení do skříně jelikož aktuálně když otevřu skříň dvířka mi zablokuji světlo a musím používat baterku abych ve skříni něco viděl. je to tedy velmi nekomfortní a tímto to doufám vyřeším. viz foto:
+Rozhodl jsem se zapojit jsi LED osvětlení do skříně jelikož aktuálně když otevřu skříň dvířka mi zablokuji světlo a musím používat baterku abych ve skříni něco viděl. Je to tedy velmi nekomfortní a tímto to doufám vyřeším. viz foto:
 
 A jelikož potřebuji svítit pouze při otevřené skříni tak bude tohle řešení úplně ideální.
 

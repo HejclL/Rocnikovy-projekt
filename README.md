@@ -83,6 +83,7 @@ Vodiče/kabely povedu v bílých plastových lištách. Pro přidělání rozvad
 
 ![Média (4)](https://github.com/user-attachments/assets/2d7a0d36-9245-40b1-b349-a5c73bf6209f)
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/883ae005-2cc8-46d0-a5da-5ad7239aa0f7" />
+<img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/e2b370da-6d57-45d9-9a97-22a3b58aab0b" />
 
 ![tmp_f5b38429-103e-45f9-b6c1-c6c661763782](https://github.com/user-attachments/assets/4f5c38fe-ae74-4c79-83b9-cb174cbad8d8)
 ![tmp_42fdda6c-983c-4425-adef-540b7aa5cbd5](https://github.com/user-attachments/assets/becdaf08-4566-4c96-8405-d8ec461088ad)

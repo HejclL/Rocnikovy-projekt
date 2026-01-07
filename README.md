@@ -69,8 +69,6 @@ zkoušečka napětí
 <img width="1320" height="1760" alt="image" src="https://github.com/user-attachments/assets/6ba0619a-556d-4fea-8c5b-034fc55e0e73" />
 <img width="1320" height="1760" alt="image" src="https://github.com/user-attachments/assets/de443d80-391e-4a50-8214-f10168286fdb" />
 
-
-
 # Zapojení 
 
 <img width="1465" height="666" alt="Image" src="https://github.com/user-attachments/assets/478e6ead-f138-4caa-9cf1-64926a854000" />

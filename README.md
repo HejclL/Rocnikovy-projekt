@@ -9,7 +9,7 @@ A jelikož potřebuji svítit pouze při otevřené skříni tak bude tohle ře�
 ![Image](https://github.com/user-attachments/assets/71cf3db2-9755-4e6c-9e15-db7f4791dec0)
 
 ## zásady bezpečnosti práce
-Jedná se o práci s napětím 230V. A proto smí tuto činnost provádět pouze s potřebnou kvalifikací. Tento projekt neslouží jako návod ale pouze jako ukázka jak jsem vyřešil danou záležitost já. Je důležité ověřit jsi všechny norami a vykonávat činnosti na které jste odborně způsobilí.  
+Jedná se o práci s napětím 230V. A proto smí tuto činnost provádět pouze s potřebnou kvalifikací. Tento projekt neslouží jako návod ale pouze jako ukázka jak jsem vyřešil danou záležitost já. Je důležité ověřit jsi všechny normi a vykonávat činnosti na které jste odborně způsobilí.  
 
 # Použité součástky a nástroje
 

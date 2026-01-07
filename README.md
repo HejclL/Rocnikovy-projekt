@@ -73,7 +73,7 @@ zkoušečka napětí
 
 <img width="1465" height="666" alt="Image" src="https://github.com/user-attachments/assets/478e6ead-f138-4caa-9cf1-64926a854000" />
 
-Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm (jedná se o síť TN-C) který zde již předtím byl od instalace kterou budeme jistit 10A jističem.10A jistič použiju kvůli selektivitě do rozvaděče na jistič a N svorkovnici. Dále propojíme pomocí hřebenu přívody na jističe(Jistič 10A) slouží pro jištění jedné zásuvky a světla, které jsou již nainstalované. Z 6A jističe vyvedu na rozpínací kontakt který je umístěný ve vnitřku skříně a sepne (zapne) při otevření dvířek skříně. Následně pokračuji zpátky na usměrňovač (který umístím na samostatnou DIN lištu kvůli jeho rozměrům a chlazení) a z usměrňovače už na LED pásek.
+Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm (jedná se o síť TN-C) který zde již předtím byl od instalace kterou budeme jistit 10A jističem.10A jistič použiju kvůli selektivitě do rozvaděče na jistič a N svorkovnici. Dále propojíme pomocí hřebenu přívody na jističe(Jistič 10A) slouží pro jištění jedné zásuvky a světla, které jsou již nainstalované. Z 6A jističe vyvedu na rozpínací kontakt který je umístěný ve vnitřku skříně z vršku stříně provrtám díru do skříně a protáhnu jí vodiče spínač přidělám dvěma šrouby do skříně. Spínač sepne (zapne) při otevření dvířek skříně. Následně pokračuji zpátky na usměrňovač (který umístím na samostatnou DIN lištu kvůli jeho rozměrům a chlazení) do něj napojím ješte N z vedlejšího rozvaděče a z usměrňovače už na LED pásek.
 
 LED pásek umístím na strop na kolmou lištu s difuzérem tak aby svítila do skříně.(Mám dřevěný strop tedy předělání nebude takový problém)
 

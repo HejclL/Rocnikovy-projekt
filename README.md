@@ -109,3 +109,4 @@ Hliníková lišta na LED. Online. In: T-LED: the free encyclopedia. San Francis
 LED. Online. In: Wikipedia: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://cs.wikipedia.org/wiki/LED. [cit. 2025-12-31].
 
 Jak LED diody fungují. Online. In: LED Solution: the free encyclopedia. San Francisco (CA): Wikimedia Foundation, 2001-. Dostupné z: https://eshop.ledsolution.cz/led-diody-technicke-udaje/. [cit. 2025-12-31].
+Spínač BS1012. Online. EMAS. 2025. Dostupné z: https://www.emaselectric.com/products/f--basic-switches/bs--series/bs1012--snap-action-1no-1nc-bs-series-button-switch. [cit. 2026-01-08].

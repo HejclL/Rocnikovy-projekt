@@ -77,21 +77,16 @@ Přivedeme 230V/50Hz z el. sítě pomocí vodiče 2x1,5mm (jedná se o síť TN-
 
 LED pásek umístím na strop na kolmou lištu s difuzérem tak aby svítila do skříně.(Mám dřevěný strop tedy předělání nebude takový problém)
 
-Vodiče/kabely povedu v bílých plastových lištách. Pro přidělání rozvaděče do stěny použiji hmoždinky vrtačku a šrouby. Na všechny slaněné vodiče dám dutinku. A na spojení s rozpínacím tlačítkem použiji autokorektory. Spojky do LED pásku jsou spojeny pomocí dutinek a svařeny stahovací bužírkou.
+Vodiče/kabely povedu v bílých plastových lištách. Pro přidělání rozvaděče do stěny použiji hmoždinky vrtačku a šrouby. Na všechny slaněné vodiče dám dutinku. A na spojení s rozpínacím tlačítkem použiji autokorektory. Spojky do LED pásku jsou spojeny pomocí dutinek a svařeny stahovací bužírkou. Rozpínací kontakt ve skříni zakriji plastovou krabičkou aby byli zakrité živé časti.
 
 ![Média (4)](https://github.com/user-attachments/assets/2d7a0d36-9245-40b1-b349-a5c73bf6209f)
-<img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/883ae005-2cc8-46d0-a5da-5ad7239aa0f7" />
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/e2b370da-6d57-45d9-9a97-22a3b58aab0b" />
+<img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/883ae005-2cc8-46d0-a5da-5ad7239aa0f7" />
 
-![tmp_f5b38429-103e-45f9-b6c1-c6c661763782](https://github.com/user-attachments/assets/4f5c38fe-ae74-4c79-83b9-cb174cbad8d8)
 ![tmp_76c8f723-9590-451c-b723-bcafc01ec844](https://github.com/user-attachments/assets/9adaeef7-9895-48e8-9a0f-eb9c8e2ff6f1)
-![tmp_42fdda6c-983c-4425-adef-540b7aa5cbd5](https://github.com/user-attachments/assets/becdaf08-4566-4c96-8405-d8ec461088ad)
-
-
-Rozpínací kontakt ve skříni zakriji plastovou krabičkou aby byli zakrité živé časti.
-
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/c53d2b87-da93-49a8-93d2-9c7bba243efc" />
-
+![tmp_42fdda6c-983c-4425-adef-540b7aa5cbd5](https://github.com/user-attachments/assets/becdaf08-4566-4c96-8405-d8ec461088ad)
+![tmp_f5b38429-103e-45f9-b6c1-c6c661763782](https://github.com/user-attachments/assets/4f5c38fe-ae74-4c79-83b9-cb174cbad8d8)
 
 ## výpočet parametrů měniče
 

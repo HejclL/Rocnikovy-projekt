@@ -85,7 +85,7 @@ Parametry: 100-240V AC (0.45A) / 12V DC (1.2A) 15W
 Jelikož používám 80cm LED pasku o příkonu 4W/m tak zdroj s výkonem 15W je úplně dostačující. (0.8*4=3.2)
 
 Tento zdroj jsem jsi hlavě vybral kvůli tomu že je mám doma a tudíž jsem nemusel nic shánět.  
-### Foto z zapojování 
+### Foto z zapojování: 
 ![Média (4)](https://github.com/user-attachments/assets/2d7a0d36-9245-40b1-b349-a5c73bf6209f)
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/e2b370da-6d57-45d9-9a97-22a3b58aab0b" />
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/883ae005-2cc8-46d0-a5da-5ad7239aa0f7" />

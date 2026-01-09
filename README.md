@@ -85,6 +85,7 @@ Parametry: 100-240V AC (0.45A) / 12V DC (1.2A) 15W
 Jelikož používám 80cm LED pasku o příkonu 4W/m tak zdroj s výkonem 15W je úplně dostačující. (0.8*4=3.2)
 
 Tento zdroj jsem jsi hlavě vybral kvůli tomu že je mám doma a tudíž jsem nemusel nic shánět.  
+### Foto z zapojování 
 ![Média (4)](https://github.com/user-attachments/assets/2d7a0d36-9245-40b1-b349-a5c73bf6209f)
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/e2b370da-6d57-45d9-9a97-22a3b58aab0b" />
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/883ae005-2cc8-46d0-a5da-5ad7239aa0f7" />
@@ -92,7 +93,6 @@ Tento zdroj jsem jsi hlavě vybral kvůli tomu že je mám doma a tudíž jsem n
 ![tmp_76c8f723-9590-451c-b723-bcafc01ec844](https://github.com/user-attachments/assets/9adaeef7-9895-48e8-9a0f-eb9c8e2ff6f1)
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/c53d2b87-da93-49a8-93d2-9c7bba243efc" />
 ![tmp_f5b38429-103e-45f9-b6c1-c6c661763782](https://github.com/user-attachments/assets/4f5c38fe-ae74-4c79-83b9-cb174cbad8d8)
-
 # Poděkování
 S projektem mi pomohl můj otec a to i s výběrem součástek. A zároveň na mě dohlížel při práci.
 

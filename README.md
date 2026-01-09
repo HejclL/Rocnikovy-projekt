@@ -84,8 +84,9 @@ Vodiče/kabely povedu v bílých plastových lištách. Pro přidělání rozvad
 <img width="1760" height="1320" alt="image" src="https://github.com/user-attachments/assets/e2b370da-6d57-45d9-9a97-22a3b58aab0b" />
 
 ![tmp_f5b38429-103e-45f9-b6c1-c6c661763782](https://github.com/user-attachments/assets/4f5c38fe-ae74-4c79-83b9-cb174cbad8d8)
-![tmp_42fdda6c-983c-4425-adef-540b7aa5cbd5](https://github.com/user-attachments/assets/becdaf08-4566-4c96-8405-d8ec461088ad)
 ![tmp_76c8f723-9590-451c-b723-bcafc01ec844](https://github.com/user-attachments/assets/9adaeef7-9895-48e8-9a0f-eb9c8e2ff6f1)
+![tmp_42fdda6c-983c-4425-adef-540b7aa5cbd5](https://github.com/user-attachments/assets/becdaf08-4566-4c96-8405-d8ec461088ad)
+
 
 Rozpínací kontakt ve skříni zakriji plastovou krabičkou aby byli zakrité živé časti.
 
